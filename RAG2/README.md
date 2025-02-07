@@ -1,4 +1,4 @@
-**.env Contents**
+**.env**
 
 OPENAI_API_KEY=
 
